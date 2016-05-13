@@ -1,0 +1,7 @@
+MODULES_MANAGER_V2
+baike_spider.__init__|E:\学习\研究\爬虫\PaChong\baike_spider\__init__.py
+baike_spider.html_downloader|E:\学习\研究\爬虫\PaChong\baike_spider\html_downloader.py
+baike_spider.html_outputer|E:\学习\研究\爬虫\PaChong\baike_spider\html_outputer.py
+baike_spider.html_parser|E:\学习\研究\爬虫\PaChong\baike_spider\html_parser.py
+baike_spider.spider_main|E:\学习\研究\爬虫\PaChong\baike_spider\spider_main.py
+baike_spider.url_manger|E:\学习\研究\爬虫\PaChong\baike_spider\url_manger.py
